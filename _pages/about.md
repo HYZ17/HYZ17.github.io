@@ -12,16 +12,15 @@ I am a first-year PhD student in [The Hong Kong University of Science and Techno
 
 ## Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).\\
-\* denotes co-first authors
-<!-- , $^\dagger$ denotes corresponding author/main advisor -->
+\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
 **Compression Represents Intelligence Linearly** \\
-*Yuzhen Huang*\*, Jinghan Zhang*, Zifei Shan, Junxian He\\
+*<ins>Yuzhen Huang</ins>*\*, Jinghan Zhang*, Zifei Shan, Junxian He$^\dagger$\\
 Preprint 2024. [[arxiv]](https://arxiv.org/abs/2404.09937v1) [[github]](https://github.com/hkust-nlp/llm-compression-intelligence) [[dataset]](https://huggingface.co/datasets/hkust-nlp/llm-compression)
 
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**\\
-*Yuzhen Huang*\*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He\\
+*<ins>Yuzhen Huang</ins>*\*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He$^\dagger$\\
 NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)
 
 
