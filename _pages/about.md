@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received the bachelor degree in Computer Science and Technology in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023. I am generally interested in natural language processing and machine learning. Currently, I am working on model evaluation.
+I am a first-year PhD student in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received the bachelor degree in Computer Science in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023. I am generally interested in natural language processing and machine learning. Currently, I am working on model evaluation.
 
 ## Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).\\
@@ -28,7 +28,7 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 ## Experiences
 ### Academia
 - *2024.02 - now* PhD student, Department of CSE, [HKUST](https://hkust.edu.hk), Hong Kong SAR, China.
-- *2019.09 - 2023.06* Undergraduate, Computer Science and Technology, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China.
+- *2019.09 - 2023.06* Undergraduate, Computer Science, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China.
 
 ### Industry
 - *2023.11 - 2024.01* Research Intern, Wechat, Tencent.
