@@ -31,5 +31,5 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 - *2019.09 - 2023.06* Undergraduate, Computer Science and Technology, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China.
 
 ### Industry
-- *2023.11 - 2024.1* Research Intern, Wechat, Tencent.
+- *2023.11 - 2024.01* Research Intern, Wechat, Tencent.
 
