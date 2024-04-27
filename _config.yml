@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Yuzhen Huang"
+  name_zh          : "黄裕振"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at HKUST CSE"
   location         : "Hong Kong"
