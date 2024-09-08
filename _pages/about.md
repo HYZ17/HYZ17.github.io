@@ -16,8 +16,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **Compression Represents Intelligence Linearly** \\
 *<ins>Yuzhen Huang</ins>*\*, Jinghan Zhang*, Zifei Shan, Junxian He$^\dagger$\\
-COLM 2024. [[arxiv]](https://arxiv.org/abs/2404.09937v1) [[github]](https://github.com/hkust-nlp/llm-compression-intelligence) [[dataset]](https://huggingface.co/datasets/hkust-nlp/llm-compression)
-
+COLM 2024. [[arxiv]](https://arxiv.org/abs/2404.09937) [[github]](https://github.com/hkust-nlp/llm-compression-intelligence) [[dataset]](https://huggingface.co/datasets/hkust-nlp/llm-compression)
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**\\
 *<ins>Yuzhen Huang</ins>*\*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He$^\dagger$\\
