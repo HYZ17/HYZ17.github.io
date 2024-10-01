@@ -16,14 +16,14 @@ I am primarily focused on large language models, particularly in advancing their
 * Improving the architecture and training methods of multimodal models to strengthen their understanding across multiple modalities, 
 * Developing reliable evaluation methods for language models.
 
-I am open to any collaboration &#129303
+I am open to any collaboration 🤗
 
 ## Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).\\
 \* denotes co-first authors
 
 **Compression Represents Intelligence Linearly** \\
-*<ins>Yuzhen Huang</ins>* \*, Jinghan Zhang *, Zifei Shan, Junxian He \\ 
+*<ins>Yuzhen Huang</ins>* \*, Jinghan Zhang *, Zifei Shan, Junxian He\\
 COLM 2024. [[arxiv]](https://arxiv.org/abs/2404.09937) [[github]](https://github.com/hkust-nlp/llm-compression-intelligence) [[dataset]](https://huggingface.co/datasets/hkust-nlp/llm-compression)
 * **Investigate the linear correlation between compression and intelligence in LLMs.**
 *  Provide evidence for the belief
