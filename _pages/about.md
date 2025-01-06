@@ -22,6 +22,14 @@ I am open to any collaboration 🤗
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).\\
 \* denotes co-first authors
 
+**B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**\\
+Weihao Zeng \* , *<ins>Yuzhen Huang</ins>* \*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He\\
+ArXiv. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR) 
+* Quantitatively analyze the dynamics of exploration and exploitation during self-improvement.
+* Introduce B-STaR, a Self-Taught Reasoning framework that autonomously adjusts its configurations.
+* Balance exploration and exploitation, leading to superior performance.
+
+
 **Compression Represents Intelligence Linearly** \\
 *<ins>Yuzhen Huang</ins>* \*, Jinghan Zhang *, Zifei Shan, Junxian He\\
 COLM 2024. [[arxiv]](https://arxiv.org/abs/2404.09937) [[github]](https://github.com/hkust-nlp/llm-compression-intelligence) [[dataset]](https://huggingface.co/datasets/hkust-nlp/llm-compression)
@@ -37,12 +45,6 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 * Conduct a thorough evaluation of the most advanced LLMs.
 * Over 9.8M downloads on Hugging Face and more than 100 models on leaderboard.
 
-**B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**\\
-Weihao Zeng \* , *<ins>Yuzhen Huang</ins>* \*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He\\
-ArXiv. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR) 
-* Quantitatively analyze the dynamics of exploration and exploitation during self-improvement.
-* Introduce B-STaR, a Self-Taught Reasoning framework that autonomously adjusts its configurations.
-* Balance exploration and exploitation, leading to superior performance.
 
 
 ## Experiences
