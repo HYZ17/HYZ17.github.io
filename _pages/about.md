@@ -12,9 +12,9 @@ Hi, I am a first-year PhD student in [The Hong Kong University of Science and Te
 
 ## Research Interests
 I am primarily focused on large language models, particularly in advancing their reasoning capabilities and multimodal understanding. To achieve this, my research interests lie in: 
-* Enhancing reasoning and planning abilities through self-improvement and RL techniques, 
-* Improving the architecture and training methods of multimodal models to strengthen their understanding across multiple modalities, 
-* Developing reliable evaluation methods for language models.
+* Enhancing reasoning and planning abilities through self-improvement and RL techniques. (**B-STaR**)
+* Developing reliable evaluation methods for language models. (**C-Eval**, **LLM-Compression-Intelligence**)
+* Improving the architecture and training methods of multimodal models to strengthen their understanding across multiple modalities.
 
 I am open to any collaboration 🤗
 
@@ -37,6 +37,12 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 * Conduct a thorough evaluation of the most advanced LLMs.
 * Over 9.8M downloads on Hugging Face and more than 100 models on leaderboard.
 
+**B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**\\
+Weihao Zeng \* , *<ins>Yuzhen Huang</ins>* \*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He\\
+ArXiv. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR) 
+* Quantitatively analyze the dynamics of exploration and exploitation during self-improvement.
+* Introduce B-STaR, a Self-Taught Reasoning framework that autonomously adjusts its configurations.
+* Balance exploration and exploitation, leading to superior performance.
 
 
 ## Experiences
