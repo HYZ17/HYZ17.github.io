@@ -24,7 +24,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**\\
 Weihao Zeng \* , *<ins>Yuzhen Huang</ins>* \*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He\\
-ArXiv. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR) 
+ICLR 2025. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR) 
 * Quantitatively analyze the dynamics of exploration and exploitation during self-improvement.
 * Introduce B-STaR, a Self-Taught Reasoning framework that autonomously adjusts its configurations.
 * Balance exploration and exploitation, leading to superior performance.
