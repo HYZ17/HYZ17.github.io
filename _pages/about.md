@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a first-year PhD student in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received the bachelor degree in Computer Science in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023. 
+Hi, I am a second-year PhD student in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received the bachelor degree in Computer Science in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023. 
 
 ## Research Interests
 I am primarily focused on large language models, particularly in advancing their reasoning capabilities and multimodal understanding. To achieve this, my research interests lie in: 
@@ -57,3 +57,8 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 
 ## Service
 Reviewer: NeurIPS 2024, NLPCC 2024, ICLR 2025
+
+## Talks
+
+* Feb 2025, Apple AIML, *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient.* 
+* May 2024, BAAI, *Compression Represents Intelligence Linearly.* [[video]](https://event.baai.ac.cn/activities/784)
