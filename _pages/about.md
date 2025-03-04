@@ -12,7 +12,7 @@ Hi, I am a second-year PhD student in [The Hong Kong University of Science and T
 
 ## Research Interests
 I am primarily focused on large language models, particularly in advancing their reasoning capabilities and multimodal understanding. To achieve this, my research interests lie in: 
-* Enhancing reasoning and planning abilities through self-improvement and RL techniques. (**B-STaR**)
+* Enhancing reasoning and planning abilities through self-improvement and RL techniques. (**B-STaR**, **simpleRL**)
 * Developing reliable evaluation methods for language models. (**C-Eval**, **LLM-Compression-Intelligence**)
 * Improving the architecture and training methods of multimodal models to strengthen their understanding across multiple modalities.
 
@@ -21,6 +21,22 @@ I am open to any collaboration 🤗
 ## Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).\\
 \* denotes co-first authors
+
+**7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient**\\
+Weihao Zeng \*, *<ins>Yuzhen Huang</ins>* \*, Wei Liu, Keqing He, Qian Liu, Zejun Ma, Junxian He\\ 
+Notion. [[Notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](https://github.com/hkust-nlp/simpleRL-reason)
+* Training on a 7B model using only 8K MATH examples, achieving strong performance in complex mathematical reasoning.
+* Demonstrated that a 7B model develops long CoT and self-reflection through RL with a simple design.
+* Outperforms methods that use over 50× more data and complex architectures.
+
+
+**Predictive Data Selection: The Data That Predicts Is the Data That Teaches**\\
+Kashun Shum \*, *<ins>Yuzhen Huang</ins>* \*, Hongjian Zou, Ding Qi, Yixuan Liao, Xiaoxin Chen, Qian Liu, Junxian He\\
+Arxiv 2025. [[arxiv]](https://arxiv.org/abs/2503.00808) [[github]](https://github.com/hkust-nlp/PreSelect)
+* Leverages compression efficiency to identify high-quality data that enhances downstream performance.
+* Introduces PRESELECT, a lightweight data selection method based on predictive strength.
+* Demonstrates a 10x reduction in compute requirements and significant performance improvements.
+
 
 **B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**\\
 Weihao Zeng \* , *<ins>Yuzhen Huang</ins>* \*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He\\
@@ -58,7 +74,8 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 ## Service
 Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025
 
-## Talks
+## Invited Talks
 
+* March 2025, Georgia Tech PAIR, *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient.* 
 * Feb 2025, Apple AIML, *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient.* 
 * May 2024, BAAI, *Compression Represents Intelligence Linearly.* [[video]](https://event.baai.ac.cn/activities/784)
