@@ -24,7 +24,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient**\\
 Weihao Zeng \*, *<ins>Yuzhen Huang</ins>* \*, Wei Liu, Keqing He, Qian Liu, Zejun Ma, Junxian He\\ 
-Notion. [[Notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](https://github.com/hkust-nlp/simpleRL-reason)
+Notion. [[notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](https://github.com/hkust-nlp/simpleRL-reason) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-67b543892b2ec6908ffff710)
 * Training on a 7B model using only 8K MATH examples, achieving strong performance in complex mathematical reasoning.
 * Demonstrated that a 7B model develops long CoT and self-reflection through RL with a simple design.
 * Outperforms methods that use over 50× more data and complex architectures.
@@ -32,7 +32,7 @@ Notion. [[Notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](htt
 
 **Predictive Data Selection: The Data That Predicts Is the Data That Teaches**\\
 Kashun Shum \*, *<ins>Yuzhen Huang</ins>* \*, Hongjian Zou, Ding Qi, Yixuan Liao, Xiaoxin Chen, Qian Liu, Junxian He\\
-Arxiv 2025. [[arxiv]](https://arxiv.org/abs/2503.00808) [[github]](https://github.com/hkust-nlp/PreSelect)
+Arxiv 2025. [[arxiv]](https://arxiv.org/abs/2503.00808) [[github]](https://github.com/hkust-nlp/PreSelect) [[dataset]](https://huggingface.co/datasets/hkust-nlp/PreSelect-100B)
 * Leverages compression efficiency to identify high-quality data that enhances downstream performance.
 * Introduces PRESELECT, a lightweight data selection method based on predictive strength.
 * Demonstrates a 10x reduction in compute requirements and significant performance improvements.
@@ -76,6 +76,6 @@ Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025
 
 ## Invited Talks
 
-* March 2025, Georgia Tech PAIR, *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient.* 
+* Mar 2025, Georgia Tech PAIR, *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient.* 
 * Feb 2025, Apple AIML, *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient.* 
 * May 2024, BAAI, *Compression Represents Intelligence Linearly.* [[video]](https://event.baai.ac.cn/activities/784)
