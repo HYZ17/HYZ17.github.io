@@ -12,7 +12,7 @@ Hi, I am a second-year PhD student in [The Hong Kong University of Science and T
 
 ## Research Interests
 I am primarily focused on large language models, particularly in advancing their reasoning capabilities and multimodal understanding. To achieve this, my research interests lie in: 
-* Enhancing reasoning and planning abilities through self-improvement and RL techniques. (**B-STaR**, **simpleRL**)
+* Enhancing reasoning and planning abilities through self-improvement and RL techniques. (**B-STaR**, **SimpleRL**)
 * Developing reliable evaluation methods for language models. (**C-Eval**, **LLM-Compression-Intelligence**)
 * Improving the architecture and training methods of multimodal models to strengthen their understanding across multiple modalities.
 
@@ -29,7 +29,7 @@ Arxiv 2025. [[arxiv]](https://arxiv.org/abs/2503.18892) [[github]](https://githu
 * Introduce SimpleRL-Zoo, a simple reinforcement learning recipe to improve models’ reasoning abilities.
 * Identify key factors that shape the emergence of advanced reasoning behaviors (i.e., the “aha moment”).
 
-**7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient**\\
+**SimpleRL: 7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient**\\
 Weihao Zeng \*, *<ins>Yuzhen Huang</ins>* \*, Wei Liu, Keqing He, Qian Liu, Zejun Ma, Junxian He\\
 Notion. [[notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](https://github.com/hkust-nlp/simpleRL-reason/tree/v0) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-67b543892b2ec6908ffff710)
 * Training on a 7B model using only 8K MATH examples, achieving strong performance in complex mathematical reasoning.
