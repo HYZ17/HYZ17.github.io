@@ -22,9 +22,16 @@ I am open to any collaboration 🤗
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).\\
 \* denotes co-first authors
 
+**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**\\
+Weihao Zeng \*, *<ins>Yuzhen Huang</ins>* \*, Qian Liu \*, Wei Liu, Keqing He, Zejun Ma, Junxian He\\
+NeurIPS 2024. [[arxiv]](https://arxiv.org/abs/2503.18892) [[github]](https://github.com/hkust-nlp/simpleRL-reason) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-zoo-67e0fd24c185423c1e3452d1)
+* Achieve improvements in both reasoning accuracy and response length across diverse models.
+* Introduce SimpleRL-Zoo, a simple reinforcement learning recipe to improve models’ reasoning abilities.
+* Identify key factors that shape the emergence of advanced reasoning behaviors (i.e., the “aha moment”).
+
 **7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient**\\
 Weihao Zeng \*, *<ins>Yuzhen Huang</ins>* \*, Wei Liu, Keqing He, Qian Liu, Zejun Ma, Junxian He\\ 
-Notion. [[notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](https://github.com/hkust-nlp/simpleRL-reason) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-67b543892b2ec6908ffff710)
+Notion. [[notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](https://github.com/hkust-nlp/simpleRL-reason/tree/v0) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-67b543892b2ec6908ffff710)
 * Training on a 7B model using only 8K MATH examples, achieving strong performance in complex mathematical reasoning.
 * Demonstrated that a 7B model develops long CoT and self-reflection through RL with a simple design.
 * Outperforms methods that use over 50× more data and complex architectures.
