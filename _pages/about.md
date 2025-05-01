@@ -39,7 +39,7 @@ Notion. [[notion]](https://hkust-nlp.notion.site/simplerl-reason) [[github]](htt
 
 **Predictive Data Selection: The Data That Predicts Is the Data That Teaches**\\
 Kashun Shum \*, *<ins>Yuzhen Huang</ins>* \*, Hongjian Zou, Ding Qi, Yixuan Liao, Xiaoxin Chen, Qian Liu, Junxian He\\
-Arxiv 2025. [[arxiv]](https://arxiv.org/abs/2503.00808) [[github]](https://github.com/hkust-nlp/PreSelect) [[dataset]](https://huggingface.co/datasets/hkust-nlp/PreSelect-100B)
+ICML 2025. [[arxiv]](https://arxiv.org/abs/2503.00808) [[github]](https://github.com/hkust-nlp/PreSelect) [[dataset]](https://huggingface.co/datasets/hkust-nlp/PreSelect-100B)
 * Leverages compression efficiency to identify high-quality data that enhances downstream performance.
 * Introduces PRESELECT, a lightweight data selection method based on predictive strength.
 * Demonstrates a 10x reduction in compute requirements and significant performance improvements.
