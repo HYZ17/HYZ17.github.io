@@ -19,7 +19,7 @@ I am primarily focused on large language models, particularly in advancing their
 I am open to any collaboration 🤗
 
 ## Publications
-Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en). <a href='https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> \\
+Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).  \\
 \* denotes co-first authors
 
 **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**\\
