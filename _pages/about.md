@@ -24,7 +24,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**\\
 Weihao Zeng \*, *<ins>Yuzhen Huang</ins>* \*, Qian Liu \*, Wei Liu, Keqing He, Zejun Ma, Junxian He\\
-Arxiv 2025. [[arxiv]](https://arxiv.org/abs/2503.18892) [[github]](https://github.com/hkust-nlp/simpleRL-reason) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-zoo-67e0fd24c185423c1e3452d1)
+COLM 2025. [[arxiv]](https://arxiv.org/abs/2503.18892) [[github]](https://github.com/hkust-nlp/simpleRL-reason) [[Hugging Face]](https://huggingface.co/collections/hkust-nlp/simplerl-zoo-67e0fd24c185423c1e3452d1)
 * Achieve improvements in both reasoning accuracy and response length across diverse models.
 * Introduce SimpleRL-Zoo, a simple reinforcement learning recipe to improve models’ reasoning abilities.
 * Identify key factors that shape the emergence of advanced reasoning behaviors (i.e., the “aha moment”).
