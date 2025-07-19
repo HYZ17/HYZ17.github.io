@@ -18,7 +18,7 @@ I am primarily focused on large language models, particularly in advancing their
 
 I am open to any collaboration 🤗
 
-## Publications
+## Selected Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XZK8cewAAAAJ&hl=en).  \\
 \* denotes co-first authors
 
@@ -76,10 +76,11 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 - *2019.09 - 2023.06* Undergraduate, Computer Science, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China.
 
 ### Industry
+- *2025.01 - Present* Intern Research scientist, TikTok AI Innovation Center, Singapore
 - *2023.11 - 2024.01* Research Intern, Wechat, Tencent.
 
 ## Service
-Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, ARR
+Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, NeurIPS 2025, ARR
 
 ## Invited Talks
 
