@@ -80,7 +80,7 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 - *2023.11 - 2024.01* Research Intern, Wechat, Tencent.
 
 ## Service
-Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, NeurIPS 2025, ARR
+Reviewer: NeurIPS 2024, ICLR 2025, ICML 2025, NeurIPS 2025 (Top Reviewer), ICLR 2026, ARR
 
 ## Invited Talks
 
