@@ -76,7 +76,8 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 - *2019.09 - 2023.06* Undergraduate, Computer Science, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China.
 
 ### Industry
-- *2025.01 - now* Intern Research Scientist, TikTok AI Innovation Center, Singapore, advised by Dr. [Qian Liu](https://siviltaram.github.io/).
+- *2026.01 - now* Research Intern, DeepSeek, advised by [Dr. Yu Wu](https://sites.google.com/view/wuyu/home).
+- *2025.01 - 2025.12* Intern Research Scientist, TikTok AI Innovation Center, Singapore, advised by [Dr. Qian Liu](https://siviltaram.github.io/).
 - *2023.11 - 2024.01* Research Intern, Wechat, Tencent.
 
 ## Service
